@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Learning Enthusiast Passionate About Frontend Development </h3>
 
 - 🔭 I’m currently working on **Trafalgar Landing Page**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **CSS and Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
+
+- 📫 How to reach me **iamabhinavdev@gmail.com**
+
+- ⚡ Fun fact **I love learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
